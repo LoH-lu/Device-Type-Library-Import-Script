@@ -4,8 +4,6 @@ Can be run from any server/computer that have access remotely to Netbox with API
 
 Work with more recent version of Netbox (Tested with Netbox 4.3.4 and Python 3.13.5)
 
-Packages (pynetbox==7.5.0)
-
 You just need to run the main.py and everything is done in correct order.
 
 You can follow the progress in device_type_progress.json and module_type_progress.json. On top of each file.
