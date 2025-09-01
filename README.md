@@ -6,6 +6,10 @@ Work with more recent version of Netbox (Tested with Netbox 4.3.4 and Python 3.1
 
 Packages (pynetbox==7.5.0)
 
+You just need to run the main.py and everything is done in correct order.
+
+You can follow the progress in device_type_progress.json and module_type_progress.json. On top of each file.
+
 Download the "code" as ZIP from https://github.com/netbox-community/devicetype-library and extract the folder (devicetype-library-master) inside the zip in the same folder than main.py
 
 
