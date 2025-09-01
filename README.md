@@ -1,4 +1,5 @@
 It's in working state atm
+
 Download the "code" as ZIP from https://github.com/netbox-community/devicetype-library and extract the folder (devicetype-library-master) inside the zip in the same folder than main.py
 
 Should look like that:
