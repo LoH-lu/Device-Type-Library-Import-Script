@@ -60,7 +60,8 @@ def main():
         "netbox_manufacturer.py",
         "netbox_rack.py",
         "netbox_device.py",
-        "netbox_module.py"
+        "netbox_module.py",
+        "netbox_images.py"
     ]
 
     for script in scripts:

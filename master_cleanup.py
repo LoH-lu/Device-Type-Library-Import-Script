@@ -68,7 +68,6 @@ def collect_targets(root: Path) -> Tuple[List[Path], List[Path]]:
             if (
                 directory.startswith(".")
                 or lower_dir in ("tests", "scripts", "schema")
-                or lower_dir.endswith("-images")
             ):
                 dirs_to_remove.append(current / directory)
                 # do not descend into this directory
